@@ -1,0 +1,50 @@
+# --- Preprints & Direct Research ---
+DOMAIN-SUFFIX,arxiv.org
+DOMAIN-SUFFIX,biorxiv.org
+DOMAIN-SUFFIX,medrxiv.org
+DOMAIN-SUFFIX,researchgate.net
+DOMAIN-SUFFIX,academia.edu
+
+# --- Major Publishers & Databases ---
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,acm.org
+DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,science.org
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,springerlink.com
+DOMAIN-SUFFIX,wiley.com
+DOMAIN-SUFFIX,tandfonline.com
+DOMAIN-SUFFIX,sagepub.com
+DOMAIN-SUFFIX,oup.com        # Oxford University Press
+DOMAIN-SUFFIX,cambridge.org  # Cambridge University Press
+DOMAIN-SUFFIX,jstor.org
+DOMAIN-SUFFIX,pnas.org
+
+# --- Conference Management & Discovery ---
+DOMAIN-SUFFIX,openreview.net
+DOMAIN-SUFFIX,easychair.org
+DOMAIN-SUFFIX,cvf.com        # CVPR/ICCV
+DOMAIN-SUFFIX,nips.cc        # NeurIPS
+DOMAIN-SUFFIX,icml.cc
+DOMAIN-SUFFIX,conftool.com
+DOMAIN-SUFFIX,linklings.net
+
+# --- Tools & Libraries ---
+DOMAIN-SUFFIX,zotero.org
+DOMAIN-SUFFIX,mendeley.com
+DOMAIN-SUFFIX,overleaf.com
+DOMAIN-KEYWORD,sci-hub
+DOMAIN-KEYWORD,scihub     # 注意：Sci-Hub 域名经常变动
+DOMAIN-SUFFIX,sci-hub.se
+DOMAIN-SUFFIX,sci-hub.st
+DOMAIN-SUFFIX,libgen.li
+DOMAIN-SUFFIX,semanticscholar.org
+DOMAIN-SUFFIX,dblp.org
+
+# --- Search & Metrics ---
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,scopus.com
+DOMAIN-SUFFIX,google.scholar.com
