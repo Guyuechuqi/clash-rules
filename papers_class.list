@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,oup.com        # Oxford University Press
 DOMAIN-SUFFIX,cambridge.org  # Cambridge University Press
 DOMAIN-SUFFIX,jstor.org
 DOMAIN-SUFFIX,pnas.org
+DOMAIN-SUFFIX,rsc.org
 
 # --- Conference Management & Discovery ---
 DOMAIN-SUFFIX,openreview.net
