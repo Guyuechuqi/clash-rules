@@ -49,3 +49,23 @@ DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,clarivate.com
 DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,google.scholar.com
+
+# --- Z-Library ---
+DOMAIN-SUFFIX,z-library.sk
+DOMAIN-SUFFIX,z-library.ec
+DOMAIN-SUFFIX,z-library.la
+DOMAIN-SUFFIX,z-lib.sk
+DOMAIN-SUFFIX,z-lib.id
+DOMAIN-SUFFIX,z-lib.ai
+DOMAIN-SUFFIX,z-lib.app
+DOMAIN-SUFFIX,z-lib.fm
+DOMAIN-SUFFIX,z-lib.fo
+DOMAIN-SUFFIX,z-lib.lol
+DOMAIN-SUFFIX,zlibrary.to
+DOMAIN-SUFFIX,zlibrary.lol
+DOMAIN-SUFFIX,zlibrary-global.com
+DOMAIN-SUFFIX,1lib.sk
+DOMAIN-SUFFIX,library-access.sk
+DOMAIN-KEYWORD,zlibrary
+DOMAIN-KEYWORD,z-lib
+DOMAIN-KEYWORD,1lib
