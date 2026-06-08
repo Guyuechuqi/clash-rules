@@ -69,3 +69,6 @@ DOMAIN-SUFFIX,library-access.sk
 DOMAIN-KEYWORD,zlibrary
 DOMAIN-KEYWORD,z-lib
 DOMAIN-KEYWORD,1lib
+
+# --- Linux.do ---
+DOMAIN-KEYWORD,linux.do
