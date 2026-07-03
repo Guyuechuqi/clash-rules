@@ -1,0 +1,67 @@
+# NAME: Crypto
+# BEHAVIOR: classical
+# DESCRIPTION: 主流虚拟货币、交易所、钱包、区块链浏览器、行情及媒体相关域名
+
+# >>> Exchanges (交易所) <<<
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,bnbchain.org
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,htx.com
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,huobi.pro
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gate.ac
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bitstamp.net
+DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,crypto.com
+DOMAIN-SUFFIX,pancakeswap.finance
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,sushi.com
+
+# >>> Data & Tracking (行情与数据) <<<
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,dexscreener.com
+DOMAIN-SUFFIX,dextools.io
+DOMAIN-SUFFIX,defillama.com
+DOMAIN-SUFFIX,glassnode.com
+DOMAIN-SUFFIX,messari.io
+DOMAIN-SUFFIX,tokenomicsdao.com
+DOMAIN-SUFFIX,geckoterminal.com
+
+# >>> Wallets, RPC & Infrastructure (钱包与基础设施) <<<
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,trustwallet.com
+DOMAIN-SUFFIX,imtoken.fans
+DOMAIN-SUFFIX,tokenpocket.pro
+DOMAIN-SUFFIX,infura.io
+DOMAIN-SUFFIX,alchemy.com
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,bscscan.com
+DOMAIN-SUFFIX,polygonscan.com
+DOMAIN-SUFFIX,snowtrace.io
+DOMAIN-SUFFIX,ftmscan.com
+DOMAIN-SUFFIX,arbiscan.io
+DOMAIN-SUFFIX,optimistic.etherscan.io
+DOMAIN-SUFFIX,solscan.io
+DOMAIN-SUFFIX,tronscan.org
+
+# >>> News & Media (媒体与资讯) <<<
+DOMAIN-SUFFIX,coindesk.com
+DOMAIN-SUFFIX,cointelegraph.com
+DOMAIN-SUFFIX,theblock.co
+DOMAIN-SUFFIX,decrypt.co
+DOMAIN-SUFFIX,blockworks.co
