@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,bnbchain.org
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,htx.com
 DOMAIN-SUFFIX,huobi.com
