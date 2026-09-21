@@ -1,22 +1,63 @@
-DOMAIN-SUFFIX,liminalnet.com
-DOMAIN-SUFFIX,entertang.work
-DOMAIN-KEYWORD,okemby
-DOMAIN-KEYWORD,bangumi
-DOMAIN-SUFFIX,younoair.de
-DOMAIN-SUFFIX,lyezi.cc
-DOMAIN-SUFFIX,lyezi.xyz
+# Zhezhi
 DOMAIN-SUFFIX,origamiart.uk
 DOMAIN-SUFFIX,zhezhi.art
+
+# Shiguang
+DOMAIN-SUFFIX,lightting.net
+DOMAIN-SUFFIX,ztuma.com
+
+# 1111
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,xxlb.net
-DOMAIN-SUFFIX,micu.hk
-DOMAIN-SUFFIX,sl.al
-DOMAIN-SUFFIX,taotu.ink
-DOMAIN-SUFFIX,lightting.net
-DOMAIN-SUFFIX,kingemby.com
-DOMAIN-SUFFIX,trevely.de5.net
-DOMAIN-SUFFIX,itsmygo.tv
-DOMAIN-SUFFIX,ztuma.com
-DOMAIN-SUFFIX,dpdns.org
-DOMAIN-SUFFIX,huangmin.cc.cd
 DOMAIN-SUFFIX,emby.moe
+
+# Youno
+DOMAIN-SUFFIX,younoair.de
+
+# Yezi music
+DOMAIN-SUFFIX,lyezi.cc
+# Yezi
+DOMAIN-SUFFIX,lyezi.xyz
+
+# Erlou
+DOMAIN-SUFFIX,huangmin.cc.cd
+
+# Suishipaolu
+DOMAIN-SUFFIX,kingemby.com
+
+# Vody
+DOMAIN-SUFFIX,trevely.de5.net
+
+# Lewa
+DOMAIN-SUFFIX,taotu.ink
+
+# OK
+DOMAIN-SUFFIX,okemby.org
+
+# NYA
+DOMAIN-SUFFIX,bangumi.ca
+
+# Yicimaigou
+DOMAIN-SUFFIX,itsmygo.tv
+
+# Linjing
+DOMAIN-SUFFIX,liminalnet.com
+# ETF
+DOMAIN-SUFFIX,entertang.work
+
+# Micu
+DOMAIN-SUFFIX,micu.hk
+
+# Menbao
+DOMAIN-SUFFIX,dpdns.org
+
+DOMAIN-SUFFIX,sl.al
+
+
+
+
+
+
+
+
+
