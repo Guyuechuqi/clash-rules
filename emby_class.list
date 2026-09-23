@@ -49,8 +49,12 @@ DOMAIN-SUFFIX,entertang.work
 # Micu
 DOMAIN-SUFFIX,micu.hk
 
-# Menbao
+# Menbao/Laoyouji
 DOMAIN-SUFFIX,dpdns.org
+
+# Laoyouji
+DOMAIN-SUFFIX,605305.xyz
+DOMAIN-SUFFIX,033388.xyz
 
 DOMAIN-SUFFIX,sl.al
 
