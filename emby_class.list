@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,ztuma.com
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,xxlb.net
 DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,loseremby.org
+DOMAIN-SUFFIX,zabc.net
+IP-CIDR,154.12.52.149/25
 
 # Youno
 DOMAIN-SUFFIX,younoair.de
